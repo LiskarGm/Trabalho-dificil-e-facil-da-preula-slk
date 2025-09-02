@@ -68,13 +68,11 @@ nav a {
     padding: 15px;
 }
 
-.palavras {
-  display: flex;
+.palavra1, .palavra2, .palavra3, .palavra4 {
   justify-content: center;   
-  gap: 25px;             
+  gap: 25px;    
+  margin-left: 70px;         
 }
-
-
 
 .cards {
   display: flex;
